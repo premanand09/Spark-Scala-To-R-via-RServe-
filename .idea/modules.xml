@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rserve.iml" filepath="$PROJECT_DIR$/.idea/modules/rserve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rserve-build.iml" filepath="$PROJECT_DIR$/.idea/modules/rserve-build.iml" />
+    </modules>
+  </component>
+</project>
